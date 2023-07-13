@@ -1,4 +1,4 @@
-# linux-sample
+# Note - This for for installing Codedeploy-Agent 
 Script:
 
     1  sudo service codedeploy-agent status
